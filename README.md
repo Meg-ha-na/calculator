@@ -26,17 +26,17 @@ Setup and Installation
 
 Clone the Repository
 
-git clone https://github.com/yourusername/calculator-project.git
-cd calculator-project
-Build the Project
+git clone https://github.com/Meg-ha-na/calculator.git
+cd calculator
 
+Build the Project
 Using Maven:
 mvn clean install
 
 Running the Application
-
 To run the Spring Boot application, use the following command:
 mvn spring-boot:run
+
 The application will start and be available at http://localhost:8080.
 
 API Endpoints
